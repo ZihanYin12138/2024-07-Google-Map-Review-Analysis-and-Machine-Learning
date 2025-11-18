@@ -1,0 +1,18 @@
+# 忽略所有版本管理系统本身的文件
+
+# 忽略 VS Code 的项目设置和配置（通常是个人化的）
+.vscode/
+
+# 忽略您图片中提示的超大文件
+# 01_data/Student Data-20250817T025019Z-1-001.zip
+01_data/Student Data-20250817T025019Z-1-001.zip
+
+# 02_original_version/_original_data/meta-California.json
+02_original_version/_original_data/meta-California.json
+
+# 02_original_version/_resourses_give_by_uni/meta-California.json.gz
+02_original_version/_resourses_give_by_uni/meta-California.json.gz
+
+# 忽略您额外要求的文件
+# 01_data/meta-California.json
+01_data/meta-California.json
