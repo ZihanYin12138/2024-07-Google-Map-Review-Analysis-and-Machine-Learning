@@ -4,15 +4,9 @@
 .vscode/
 
 # 忽略您图片中提示的超大文件
-# 01_data/Student Data-20250817T025019Z-1-001.zip
-01_data/Student Data-20250817T025019Z-1-001.zip
+01_data/01_data_raw/Student Data-20250817T025019Z-1-001.zip
+01_data/01_data_raw/meta-California.json
 
-# 02_original_version/_original_data/meta-California.json
 02_original_version/_original_data/meta-California.json
-
-# 02_original_version/_resourses_give_by_uni/meta-California.json.gz
 02_original_version/_resourses_give_by_uni/meta-California.json.gz
 
-# 忽略您额外要求的文件
-# 01_data/meta-California.json
-01_data/meta-California.json
